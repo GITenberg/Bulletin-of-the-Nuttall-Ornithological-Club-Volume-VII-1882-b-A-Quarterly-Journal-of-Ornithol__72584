@@ -1,0 +1,40 @@
+_repo: Bulletin-of-the-Nuttall-Ornithological-Club-Volume-VII-1882-b-A-Quarterly-Journal-of-Ornithol__72584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Allen, J. A. (Joel Asaph)
+    alias: Allen, Joel Asaph
+    birthdate: 1838
+    deathdate: 1921
+    gutenberg_agent_id: '32057'
+    url: http://www.gutenberg.org/2009/agents/32057
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Asaph_Allen
+description: ''
+gutenberg_issued: '2024-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72584'
+language: en
+pgterms:marc905: 20080826181214allen
+pgterms:marc906: '1875'
+pgterms:marc907: US
+production_note: Richard Tonsing, Stephen Hutcheson, Bryan Ness, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aCambridge :$bNuttall Ornithological Club, $c1875, copyright
+  1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bulletin of the Nuttall Ornithological Club, Volume VII (1882) : $b A Quarterly
+  Journal of Ornithology'
+url: http://www.gutenberg.org/ebooks/72584
