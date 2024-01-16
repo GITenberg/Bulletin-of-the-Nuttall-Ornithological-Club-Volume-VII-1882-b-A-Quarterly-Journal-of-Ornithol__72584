@@ -1,5 +1,8 @@
 _repo: Bulletin-of-the-Nuttall-Ornithological-Club-Volume-VII-1882-b-A-Quarterly-Journal-of-Ornithol__72584
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72584-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32057
     wikipedia: http://en.wikipedia.org/wiki/Joel_Asaph_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72584#Bulletin-of-the-Nuttall-Ornithological-Club-Volume-VII-1882-b-A-Quarterly-Journal-of-Ornithol_
 gutenberg_issued: '2024-01-01'
 gutenberg_type: Text
 identifiers:
